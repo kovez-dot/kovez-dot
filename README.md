@@ -1,7 +1,14 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7CFC00&width=1100&center=true&lines=Welcome+to+my+github+profile;My+name+is+Kovez" alt="Typing SVG"/>
 </a>
-
+<div>
+  <h2 align="center">🔭Especialidades:</h2>
+  <a href="https://github.com/kovez-dot"></a>
+  <img align="center" alt="kovez_HTML" height="30em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="kovez_CSS" height="30em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="kovez_PAWN" height="30em" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="kovez_PAWN" height="30em" src="https://img.shields.io/badge/Pawn-F3702A?style=for-the-badge&logo=Hibernate&Color=white">
+</div>
 
 <!--
 **kovez-dot/kovez-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
