@@ -1,4 +1,5 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1100&center=true&lines=Welcome+to+my+github+profile;My+name+is+Kovez" alt="Typing SVG"/></a>
+
 
 <!--
 **kovez-dot/kovez-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
